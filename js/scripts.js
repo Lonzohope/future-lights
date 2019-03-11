@@ -1,2 +1,4 @@
 var element =  document.querySelector('.my-element')
-element.classList.add('animated', 'pulse')
+element.h1.add('animated', 'pulse')
+
+$('.carousel-3d-controls').mdbCarousel3d();
