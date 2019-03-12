@@ -16,7 +16,7 @@ This is a practise website created during my free time.
 
 ## Known Bugs
 
-Not yet deected
+Not yet detected
 
 ## Technologies Used
 
